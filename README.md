@@ -15,3 +15,7 @@
 * [FullCode on FinQuant](https://github.com/technqvi/FinQuant/blob/master/AssetV2-Mini-ComparePerf.ipynb)
 * [YouTube Tutorial : T3 Find Fund Performance To Get Best Fund By Python](https://www.youtube.com/watch?v=fJkIaC0UOG8)
 
+
+## Tutorial#4 - [t4_buysell_transaction_port.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/t4_buysell_transaction_port.ipynb "t4_buysell_transaction_port.ipynb")
+* How to summarize buy/sell  transaction etf fund. 
+* [YouTube Tutorial : T3 Find Fund Performance To Get Best Fund By Python](https://www.youtube.com/watch?v=fJkIaC0UOG8)
