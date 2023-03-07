@@ -19,4 +19,4 @@
 
 ## Tutorial#4 - [t4_buysell_transaction_port.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/t4_buysell_transaction_port.ipynb "t4_buysell_transaction_port.ipynb")
 * How to summarize buy/sell  transaction etf fund. 
-* YouTube 2 Parts
+* YouTube 2 Parts [Part#1](https://www.youtube.com/watch?v=nu0cIHiVhNs) [Part#2](https://www.youtube.com/watch?v=WiB4nJtNSJ4) 
