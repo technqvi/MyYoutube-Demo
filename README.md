@@ -20,4 +20,4 @@
 * How to summarize buy/sell  transaction etf fund. 
 * YouTube 2 Parts [Part#1](https://www.youtube.com/watch?v=nu0cIHiVhNs) [Part#2](https://www.youtube.com/watch?v=WiB4nJtNSJ4) 
 
-# [Google Data Analystics & MachineLearning](https://www.youtube.com/playlist?list=PLIxgtZc_tZWNWPTeGPR5FGj_glwAOuoS7)
+# [Google Data Analystics & MachineLearning](https://github.com/technqvi/MyYoutube-Demo) [Youtube Playlist](https://www.youtube.com/playlist?list=PLIxgtZc_tZWNWPTeGPR5FGj_glwAOuoS7)
