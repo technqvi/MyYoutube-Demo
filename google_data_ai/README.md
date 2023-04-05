@@ -8,4 +8,4 @@
 - Explore & Analyse data with basic statictical method.
 - Transform raws data to be more informative and select columns as engineered featured for ML .
 - Split Data into Train , Validation and Test Data DataSet and  Ingest them into BigQuery
-* [YouTube Tutorial : 2 Exlore Data To Build Traing DataSet For ML](https://www.youtube.com/watch?v=Uzh5Wc4yZSQ)
+- [YouTube Tutorial : 2 Exlore Data To Build Traing DataSet For ML](https://www.youtube.com/watch?v=Uzh5Wc4yZSQ)
