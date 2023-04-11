@@ -9,3 +9,13 @@
 - Transform raws data to be more informative and select columns as engineered featured for ML .
 - Split Data into Train , Validation and Test Data DataSet and  Ingest them into BigQuery
 - [YouTube Tutorial : 2 Exlore Data To Build Traing DataSet For ML](https://www.youtube.com/watch?v=Uzh5Wc4yZSQ)
+
+## Tutorial#2-3 - [t3-build_train_model.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/google_data_ai/t3-build_train_model.ipynb) | [t3-transform-data.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/google_data_ai/t3-transform-data.ipynb)
+- Get train ,validation and test data from BigQuery as dataframe.
+- Covert dataframe to tensorflow as data on tf.data input pipelen
+- Normalize numberical value and perform onehot-encoding on Keras Preprocessing Layer.
+- Build model with Keras API.
+- Train model and evaluate model on validation data and test data.
+- Save Model to local path and export it to GCS.
+- Reload model to predict data.
+- [YouTube Tutorial : 3 Build Tensorflow with Keras API Model To Predict Severity Level of Incident](https://www.youtube.com/watch?v=dplq7B_mp78&t=793s)
