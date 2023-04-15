@@ -12,10 +12,21 @@
 
 ## Tutorial#2-3 - [t3-build_train_model.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/google_data_ai/t3-build_train_model.ipynb) | [t3-transform-data.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/google_data_ai/t3-transform-data.ipynb)
 - Get train ,validation and test data from BigQuery as dataframe.
-- Covert dataframe to tensorflow as data on tf.data input pipelen
+- Covert dataframe to tensorflow as data on tf.data input pipeline
 - Normalize numberical value and perform onehot-encoding on Keras Preprocessing Layer.
 - Build model with Keras API.
 - Train model and evaluate model on validation data and test data.
 - Save Model to local path and export it to GCS.
 - Reload model to predict data.
 - [YouTube Tutorial : 3 Build Tensorflow with Keras API Model To Predict Severity Level of Incident](https://www.youtube.com/watch?v=dplq7B_mp78&t=793s)
+
+
+## Tutorial#2-4 - [t4-tuning_train_model.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/google_data_ai/t4-tuning_train_model.ipynb )
+Use keras-tuner to find optimal hypter paramter to get best mode ( we improve model performamce from [t3-build_train_model.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/google_data_ai/t3-build_train_model.ipynb) ).
+- [YouTube Tutorial : 4 Tuning Model With Keras Tuner](https://www.youtube.com/watch?v=uDwrhbMMPxw)
+
+
+## Tutorial#2-5 -[t5-binary_train.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/google_data_ai/t5-binary_train.ipynb) | [t5-binary_evaluation.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/google_data_ai/t5-binary_evaluation.ipynb) | [t5-evaluate-model-prediction-on-test-data.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/google_data_ai/t5-evaluate-model-prediction-on-test-data.ipynb)
+- Demo how to to evaluate model by getting started with binary classification.
+- Demo how to to evaluate model on muticlass classification.
+- Describe how balanced data and imbalaned data lead to model's performance
