@@ -31,3 +31,4 @@ Use keras-tuner to find optimal hypter paramter to get best mode ( we improve mo
 - Demo how to to evaluate model by getting started with binary classification.
 - Demo how to to evaluate model on muticlass classification.
 - Describe how balanced data and imbalaned data lead to model's performance
+- [YouTube Tutorial : 5 Evaluate Model with Accuracy Metric](https://www.youtube.com/watch?v=itfTFz4e7tg)
