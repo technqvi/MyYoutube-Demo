@@ -27,6 +27,7 @@ Use keras-tuner to find optimal hypter paramter to get best mode ( we improve mo
 
 
 ## Tutorial#2-5 -[t5-binary_train.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/google_data_ai/t5-binary_train.ipynb) | [t5-binary_evaluation.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/google_data_ai/t5-binary_evaluation.ipynb) | [t5-evaluate-model-prediction-on-test-data.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/google_data_ai/t5-evaluate-model-prediction-on-test-data.ipynb)
+- Exlain metrics to evaluatte model focusing on Accuracy.
 - Demo how to to evaluate model by getting started with binary classification.
 - Demo how to to evaluate model on muticlass classification.
 - Describe how balanced data and imbalaned data lead to model's performance
