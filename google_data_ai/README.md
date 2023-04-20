@@ -47,8 +47,9 @@ Use keras-tuner to find optimal hypter paramter to get best mode ( we improve mo
  - [YouTube Tutorial : 7 Load New Incident To Get Prepared For Making a Prediction](https://www.youtube.com/watch?v=uR23WkS8XjQ)
  
   ## Tutorial#8 - [t8-predict_incident_severity](https://github.com/technqvi/MyYoutube-Demo/tree/main/google_data_ai/t7-load-new-incident-ml) : Cloud Function and Scheduler
- - Export data from incident  table to new_incident
- - This folder is structure to deploy cloud function created with VS Code.
- - Run this command  on Google Cloud SDK Shell to test function:   functions-framework --target=load_new_incident_ml_to_bq 
- - Run this command on Google Cloud SDK Shell to deoploy function: gcloud functions deploy load-new-incident-ml-to-bq  --gen2  --region=asia-southeast1  --runtime=python39  --memory=512 --source=.  --env-vars-file .env.yaml  --trigger-http   --entry-point  load_new_incident_ml_to_bq
- - [YouTube Tutorial : 7 Load New Incident To Get Prepared For Making a Prediction](https://www.youtube.com/watch?v=uR23WkS8XjQ)
+ - Load data from new_incident.
+ - Load model from google data storage.
+ - Predict new incident data.
+ - Store prediction result data on anothor table.
+ - Test and Deploy Cloud function as prev tutorial.
+ - [YouTube Tutorial : 8 8 Making Prediction On New Incident](https://www.youtube.com/watch?v=kCgyMRXmaTs&feature=youtu.be)
