@@ -1,3 +1,8 @@
+# [Building Tensorflow Deep Learning Model on Google Data Analystics & Vertext-AI](https://github.com/technqvi/MyYoutube-Demo/tree/main/google_data_ai)
+*  [Youtube Playlist](https://www.youtube.com/playlist?list=PLIxgtZc_tZWNWPTeGPR5FGj_glwAOuoS7)
+*  [Source Code](https://github.com/technqvi/MyYoutube-Demo/tree/main/google_data_ai)
+
+
 # [Python DataAnalytics For Fund Investment](https://www.youtube.com/playlist?list=PLIxgtZc_tZWOS9sHx9ModQ0ESX_nXkKM6)
 ## Tutorial#1-1 - [t1_yahoo_to_csv.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/t1_yahoo_to_csv.ipynb "t1_yahoo_to_csv.ipynb")
 * How to get price of ETF fund  by yfinance python and save as csv file. 
@@ -20,6 +25,3 @@
 * How to summarize buy/sell  transaction etf fund. 
 * YouTube 2 Parts [Part#1](https://www.youtube.com/watch?v=nu0cIHiVhNs) [Part#2](https://www.youtube.com/watch?v=WiB4nJtNSJ4) 
 
-# [Google Data Analystics & MachineLearning](https://github.com/technqvi/MyYoutube-Demo/tree/main/google_data_ai)
-*  [Youtube Playlist](https://www.youtube.com/playlist?list=PLIxgtZc_tZWNWPTeGPR5FGj_glwAOuoS7)
-*  [Source Code](https://github.com/technqvi/MyYoutube-Demo/tree/main/google_data_ai)
