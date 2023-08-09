@@ -18,7 +18,7 @@
 - Train model and evaluate model on validation data and test data.
 - Save Model to local path and export it to GCS.
 - Reload model to predict data.
-- [YouTube Tutorial : 3 Build Tensorflow with Keras API Model To Predict Severity Level of Incident](https://www.youtube.com/watch?v=dplq7B_mp78&t=793s)
+- [YouTube Tutorial : 3 Build Tensorflow with Keras API Model To Predict Severity Level of Incident](https://www.youtube.com/watch?v=ycDBWiXzZqQ)
 
 
 ## Tutorial#4 - [t4-tuning_train_model.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/google_data_ai/t4-tuning_train_model.ipynb )
