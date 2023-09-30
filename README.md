@@ -19,7 +19,7 @@
 
 ## Tutorial#1-3 - [t3_select_best_etf_analystics.ipynb](https://github.com/technqvi/MyYoutube-Demo/blob/main/t3_select_best_etf_analystics.ipynb "t3_select_best_etf_analystics.ipynb")
 * How to calculate percent return and rank of etf funds to score in order to find which fund outperform the most. 
-* [FullCode :AssetV2-Mini-ComparePerf.ipynb](https://github.com/technqvi/FinQuant/blob/master/AssetV2-Mini-ComparePerf.ipynb)
+* [FullCode: funds_buysell_perf_analystics.ipynb.ipynb](https://github.com/technqvi/FinQuant/blob/master/funds_buysell_perf_analystics.ipynb.ipynb) 
 * YouTube 3 Parts [Part#1](https://www.youtube.com/watch?v=-dkrJsZ8VOs&list=PLIxgtZc_tZWOS9sHx9ModQ0ESX_nXkKM6&index=3)  [Part#2](https://www.youtube.com/watch?v=GVCXjIPKd2k&list=PLIxgtZc_tZWOS9sHx9ModQ0ESX_nXkKM6&index=4)
  [Part#3](https://www.youtube.com/watch?v=fJkIaC0UOG8&list=PLIxgtZc_tZWOS9sHx9ModQ0ESX_nXkKM6&index=5)
 
